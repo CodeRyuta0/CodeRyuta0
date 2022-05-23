@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @CodeRyuta0
+<h2>- 👋 Hi, I’m @CodeRyuta0</h2>
 - 👀 I’m interested in learning to code properly in any language that I come around, I am also interested in getting better at coding so I can create my own future proyects.
 - 🌱 I’m currently learning C# so I can get better at it, I want to give it a try to code a game.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!-- 💞️ I’m looking to collaborate on ... -->
+- 📫 You can Telegram me at @RyutaCato
 
 <!---
 CodeRyuta0/CodeRyuta0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
